@@ -1,0 +1,6 @@
+@RTB_HostAddress = http://localhost:5190
+
+GET {{RTB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
